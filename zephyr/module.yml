@@ -1,4 +1,4 @@
 name: TraceRecorder
 build:
-  cmake-ext: True
+  cmake: kernelports/Zephyr/
   kconfig: kernelports/Zephyr/Kconfig
